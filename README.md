@@ -57,7 +57,7 @@ Easy way to connect with me for collaborations, internships, and professional op
 If you have any queries, collaboration ideas, internship opportunities, or professional opportunities, feel free to reach out!
 
 📧 Email:  
-dishaagarwalla260@gmail.com
+agarwalladisha02@gmail.com
 
 💼 LinkedIn:  
 https://www.linkedin.com/in/disha-agarwalla-10884b31b/
