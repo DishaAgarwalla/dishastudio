@@ -1,16 +1,106 @@
-# React + Vite
+# 🌐 Disha Studio – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌐 Portfolio Website
 
-Currently, two official plugins are available:
+[![Disha Studio](https://img.shields.io/badge/Disha-Studio-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://dishastudio.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+Welcome to my Portfolio Website, where I showcase my skills, projects, certifications, and expertise in Full Stack Web Development. This portfolio is built using React, Vite, Tailwind CSS, and modern frontend technologies to deliver a smooth, responsive, and interactive user experience.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## 📝 About Me
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I am a passionate Computer Science Engineering (CSE) student with a strong interest in Full Stack Development, modern web technologies, and scalable application development. I enjoy building responsive, user-friendly, and visually appealing web applications using the MERN Stack, Java, Spring Boot, and modern frontend frameworks.
+
+I continuously explore new technologies to improve my development skills and create impactful digital experiences. I enjoy solving real-world problems through code and working on innovative projects that combine creativity with functionality.
+
+---
+
+## 🚀 Features
+
+✨ Modern and Responsive UI  
+✨ Interactive Hero Section  
+✨ Animated Components & Smooth Transitions  
+✨ Project Showcase with Live Demo & GitHub Links  
+✨ Skills and Technologies Section  
+✨ Certifications Carousel  
+✨ Contact Form Integration using EmailJS  
+✨ Fully Mobile Responsive Design  
+✨ Smooth Navigation & Scroll Effects  
+✨ Professional Portfolio Deployment on Vercel  
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+
+### Libraries & Tools
+- Framer Motion
+- React Icons
+- React Type Animation
+- EmailJS
+
+### Deployment
+- Vercel
+
+---
+
+
+## ⚡ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/DishaAgarwalla/dishastudio.git
+```
+
+Go to the project folder:
+
+```bash
+cd dishastudio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 📬 Contact Me
+
+If you have any queries, collaboration ideas, internship opportunities, or professional opportunities, feel free to reach out!
+
+📧 Email:  
+dishaagarwalla260@gmail.com
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/disha-agarwalla-10884b31b/
+
+💻 GitHub:  
+https://github.com/DishaAgarwalla
+
+---
+
+## ⭐ Thank You
+
+Thank you for visiting my portfolio website! 🚀
