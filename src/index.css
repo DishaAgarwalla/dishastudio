@@ -1,0 +1,76 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #020617;
+  color: white;
+  font-family: "Inter", sans-serif;
+  overflow-x: hidden;
+}
+
+/* GLOBAL SECTION */
+
+section {
+  position: relative;
+}
+
+/* SCROLLBAR */
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #020617;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #06b6d4;
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #22d3ee;
+}
+
+/* TEXT SELECTION */
+
+::selection {
+  background: #06b6d4;
+  color: black;
+}
+
+/* IMAGE OPTIMIZATION */
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* REMOVE MOBILE TAP HIGHLIGHT */
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+@keyframes loader {
+
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(100%);
+  }
+
+}
+
+.animate-loader {
+
+  animation: loader 1.2s infinite linear;
+
+}
