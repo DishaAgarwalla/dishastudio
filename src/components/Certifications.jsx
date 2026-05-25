@@ -13,7 +13,7 @@ import googlecloud from "../assets/certificates/GoogleCloud.png";
 import hackjava from "../assets/certificates/HackerRank(JAVA).png";
 import hackreact from "../assets/certificates/HackerRank(React).png";
 import kaggle from "../assets/certificates/Kaggle(SQL).png";
-import linkedin from "../assets/certificates/LinkedIn Learning.png";
+import linkedin from "../assets/certificates/linkedin.png";
 import octanet from "../assets/certificates/Octanet.png";
 import oracle from "../assets/certificates/Oracle.png";
 import sap from "../assets/certificates/SAP_ABAP.png";
