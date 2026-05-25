@@ -1,6 +1,6 @@
 # 🌐 Disha Studio – Developer Portfolio
 
-## 🌐 Portfolio Website
+##  Portfolio Website
 
 [![Disha Studio](https://img.shields.io/badge/Disha-Studio-06b6d4?style=for-the-badge&logo=vercel&logoColor=white)](https://dishastudio.vercel.app/)
 
@@ -16,21 +16,22 @@ I am a passionate Computer Science Engineering (CSE) student with a strong inter
 I continuously explore new technologies to improve my development skills and create impactful digital experiences. I enjoy solving real-world problems through code and working on innovative projects that combine creativity with functionality.
 
 ---
-
 ## 🚀 Features
 
-✨ Modern and Responsive UI  
-✨ Interactive Hero Section  
-✨ Animated Components & Smooth Transitions  
-✨ Project Showcase with Live Demo & GitHub Links  
-✨ Skills and Technologies Section  
-✨ Certifications Carousel  
-✨ Contact Form Integration using EmailJS  
-✨ Fully Mobile Responsive Design  
-✨ Smooth Navigation & Scroll Effects  
-✨ Professional Portfolio Deployment on Vercel  
+### 💻 Projects Showcase
+Explore my featured projects with live demos, GitHub repositories, and detailed project descriptions.
 
----
+### ⚡ Interactive UI
+Modern animations, smooth transitions, and responsive design for an engaging user experience.
+
+### 🛠️ Skills & Technologies
+Highlights my technical expertise in Full Stack Development, MERN Stack, Java, and modern web technologies.
+
+### 🏆 Certifications Section
+Showcases my certifications, achievements, and continuous learning journey.
+
+### 📬 Contact Section
+Easy way to connect with me for collaborations, internships, and professional opportunities.
 
 ## 🛠️ Tech Stack
 
@@ -48,41 +49,6 @@ I continuously explore new technologies to improve my development skills and cre
 
 ### Deployment
 - Vercel
-
----
-
-
-## ⚡ Installation & Setup
-
-Clone the repository:
-
-```bash
-git clone https://github.com/DishaAgarwalla/dishastudio.git
-```
-
-Go to the project folder:
-
-```bash
-cd dishastudio
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run development server:
-
-```bash
-npm run dev
-```
-
-Build for production:
-
-```bash
-npm run build
-```
 
 ---
 
